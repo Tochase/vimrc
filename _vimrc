@@ -7,7 +7,6 @@ set go= 		" 去掉gvim 的菜单栏和工具栏
 set guifont=Monospace\ 18
 set shortmess=atI "启动的时候不显示那个援助乌干达儿童的提示
 
-
 set number		" 行号
 set ruler		" 状态栏标尺 即右下角的那个
 syntax on		" 语法高亮
