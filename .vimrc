@@ -1,4 +1,7 @@
-set fencs=utf-8,gbk,latin1
+set fencs=utf-8,gbk,latin1:h14
+set linespace=3
+set cursorline
+
 set autoindent
 set cindent
 set smartindent	" 开启新行时智能自动缩进
@@ -19,6 +22,5 @@ set expandtab 	" expandtab 用空白键代替 tab ,这里不用
 
 set nocompatible	" 关闭 vi 兼容模式
 set backspace=indent,eol,start 	" 不设定在插入状态时无法删除回车
-
 inoremap jk <ESC>
-colorscheme blink-contrast	" 配色方案
+"colorscheme blink-contrast	" 配色方案
