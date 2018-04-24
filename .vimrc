@@ -21,3 +21,4 @@ set nocompatible	" 关闭 vi 兼容模式
 set backspace=indent,eol,start 	" 不设定在插入状态时无法删除回车
 
 inoremap jk <ESC>
+colorscheme blink-contrast	" 配色方案
